@@ -1,6 +1,6 @@
 # Club Management System (DBMS Project)
 
-A relational database management system built using MySQL to manage university clubs efficiently.
+A relational database management system built using XAMPP to manage university clubs efficiently.
 
 ## Features
 - Student and club management
